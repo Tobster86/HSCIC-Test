@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HSCIC Technical Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="enter_search_terms">Enter search term(s)</string>
+    <string name="search_or">Or</string>
+    <string name="semantic">Semantic:</string>
+    <string name="search_and">And</string>
+    <string name="search">Search</string>
+    <string name="clear">Clear</string>
+    <string name="no_results">No results.</string>
+    <string name="unit_test_1">Unit test 1</string>
+    <string name="unit_test_2">Unit test 2</string>
+    <string name="unit_test_3">Unit test 3</string>
+    <string name="unit_test_4">Unit test 4</string>
+    <string name="unit_test_5">Unit test 5</string>
+    <string name="error">Error reading news data.</string>
+</resources>

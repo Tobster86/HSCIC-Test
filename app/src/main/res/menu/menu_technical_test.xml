@@ -1,0 +1,20 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".TechnicalTest">
+      <item android:id="@+id/unittest1"
+            android:title="@string/unit_test_1"
+            app:showAsAction="never"/>
+      <item android:id="@+id/unittest2"
+            android:title="@string/unit_test_2"
+            app:showAsAction="never"/>
+      <item android:id="@+id/unittest3"
+            android:title="@string/unit_test_3"
+            app:showAsAction="never"/>
+      <item android:id="@+id/unittest4"
+            android:title="@string/unit_test_4"
+            app:showAsAction="never"/>
+      <item android:id="@+id/unittest5"
+            android:title="@string/unit_test_5"
+            app:showAsAction="never"/>
+</menu>
